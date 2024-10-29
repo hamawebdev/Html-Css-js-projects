@@ -15,5 +15,37 @@ A simple HTML and CSS-based clone of YouTube, featuring a search bar, video thum
 
 
 
+## RPS Game
+
+![RPS Game Preview](rpsProject/rps.png)
+
+
+
+
+## To-Do list
+
+![To-Do list Preview](todolistApp/todo.png)
+
+
+
+
+
+## Weather App
+
+![Weather App Preview](weatherApp/weather.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
